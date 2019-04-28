@@ -1,2 +1,3 @@
-# News2.0
-News2.0 system
+# News1.0
+
+hello everybody!    News1.0 system coming!
